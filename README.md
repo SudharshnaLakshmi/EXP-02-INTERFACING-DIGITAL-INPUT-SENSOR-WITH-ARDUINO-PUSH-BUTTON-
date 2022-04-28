@@ -88,5 +88,5 @@ void loop()
 ![My image](./output.png)
 
 ###  Result:
-
+Digital input has been interfaced (push button) and blink and LED has been activated.
 
